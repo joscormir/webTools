@@ -13,10 +13,9 @@ It will be saved in your profile created for this session. (f it is the fisr tim
 After that, you need to specify two parameter:
 userDataDir is where your profile is, use the path in the example to find your own profile in your system. 
 
-userDataDir 	  = '/Users/Jeca22/Library/Application Support/Google/Chrome/Profile 1'
+```userDataDir 	  = '/Users/Jeca22/Library/Application Support/Google/Chrome/Profile 1'```
 
 executablePath is where the webdriver you just downloaded is storaged. You need to give the path where it is. 
 I recommend to put it in the same folder than your scripts.
 
-executablePath 	= '/Users/Jeca22/Desktop/pythonTest/chromedriver'
-
+```executablePath 	= '/Users/Jeca22/Desktop/pythonTest/chromedriver'```
