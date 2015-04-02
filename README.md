@@ -3,10 +3,10 @@ Some multiplatform tools to automate growth of users in different communities.
 
 Everything is programmed using Python 3.4.3, Selenium and the Chrome web driver.
 You need to include selenium once you have installed python in your computer, you just need to 
-execute *pip install selenium*
+execute ```pip install selenium```
 Once you have it installed you need to download the chrome web driver from https://sites.google.com/a/chromium.org/chromedriver/downloads
 
-With the script linkedin_contacts_growth.py you can automate the task of adding connections.
+With the script ```linkedin_contacts_growth.py``` you can automate the task of adding connections.
 First you need to execute the web driver from the python idle for example and introduce your LinkedIn account.
 It will be saved in your profile created for this session. (f it is the fisr time you use the web driver it will be Profile 1)
 
